@@ -3,4 +3,6 @@ process the data
 
 create an avatar for user 
 
-This is a new line that will only be present in the feature1 branch and not in the main branch
+This is a new line that will only be present in the main branch and not in the feature1 branch
+
+create an avatar that looks like a dog
