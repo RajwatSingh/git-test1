@@ -1,2 +1,6 @@
 Get the user data........
 process the data    
+
+create an avatar for user 
+
+This is a new line that will only be present in the feature1 branch and not in the main branch
